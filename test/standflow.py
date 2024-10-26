@@ -1,3 +1,6 @@
+import sys
+
+sys.path.append(".")
 from core import track_function, dag_structure
 
 
